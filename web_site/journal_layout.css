@@ -1,0 +1,56 @@
+
+
+.container {
+	border: 10px white solid;
+	background: white;
+}
+
+.header {
+	text-align: right;
+	background: #A8F0F0;
+	width: 100%
+
+
+
+}
+
+.content {
+	
+	border: 4px #C2E9E9  solid;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 13%;
+	
+}
+
+
+.footer {
+	
+	border: 4px #C2E9E9  solid;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	
+	margin-left: 13%;
+
+	
+}
+.img-wrap {
+	text-align: right;
+
+	
+}
+
+.bar {
+	background: lightblue;
+	margin-top: 10px;
+	float: left;
+	border: 4px #C2E9E9  solid;
+	padding: 5px;
+	width: 10%;
+	
+}
+
+
+

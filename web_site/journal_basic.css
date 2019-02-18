@@ -21,6 +21,9 @@ blockquote {
 body {
 	font-family: "Georgia";
 	color: #009097;
+	background-image: url("images/back.jpg");
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 
@@ -32,11 +35,21 @@ h1, h2 {
 }
 
 img {
+	text-align: right;
 	border-style: none;
 	padding: 5px;
+
 }
 
 ul {
 	padding-left: 10px;
 	margin: 2px 10px 2px 5px;
+}
+
+#data {
+	border-bottom: 2px #009097 dashed;
+
+}
+#fresh {
+	size: 14pt;
 }
